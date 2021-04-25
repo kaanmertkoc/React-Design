@@ -1,0 +1,52 @@
+{
+  "cells": [
+    {
+      "title": "Intro to React",
+      "image": "https://www.dropbox.com/s/xbafpwjgvoi246w/logo-react.png?dl=0"
+    },
+    {
+      "title": "Basic Styling in CSS",
+      "image": "https://www.dropbox.com/s/xbafpwjgvoi246w/logo-react.png?dl=0"
+    },
+    {
+      "title": "Adaptive Layout with CSS Grid",
+      "image": "https://www.dropbox.com/s/xbafpwjgvoi246w/logo-react.png?dl=0"
+    },
+    {
+      "title": "Intereactions and Animations",
+      "image": "https://www.dropbox.com/s/xbafpwjgvoi246w/logo-react.png?dl=0"
+    },
+    {
+      "title": "SVG Animation",
+      "image": "https://www.dropbox.com/s/xbafpwjgvoi246w/logo-react.png?dl=0"
+    },
+    {
+      "title": "Components and Props",
+      "image": "https://www.dropbox.com/s/xbafpwjgvoi246w/logo-react.png?dl=0"
+    },
+    {
+      "title": "States and Events",
+      "image": "https://www.dropbox.com/s/xbafpwjgvoi246w/logo-react.png?dl=0"
+    },
+    {
+      "title": "Styled Components",
+      "image": "https://www.dropbox.com/s/xbafpwjgvoi246w/logo-react.png?dl=0"
+    },
+    {
+      "title": "Static Data with JSON",
+      "image": "https://www.dropbox.com/s/xbafpwjgvoi246w/logo-react.png?dl=0"
+    },
+    {
+      "title": "GraphQL with Contentful",
+      "image": "https://www.dropbox.com/s/xbafpwjgvoi246w/logo-react.png?dl=0"
+    },
+    {
+      "title": "Puplish to Netifly",
+      "image": "https://www.dropbox.com/s/xbafpwjgvoi246w/logo-react.png?dl=0"
+    },
+    {
+      "title": "Payment with Stripe Checkout",
+      "image": "https://www.dropbox.com/s/xbafpwjgvoi246w/logo-react.png?dl=0"
+    }
+  ]
+}
